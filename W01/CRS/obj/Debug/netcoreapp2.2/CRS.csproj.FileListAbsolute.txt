@@ -1,0 +1,11 @@
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\bin\Debug\netcoreapp2.2\CRS.deps.json
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\bin\Debug\netcoreapp2.2\CRS.runtimeconfig.json
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\bin\Debug\netcoreapp2.2\CRS.runtimeconfig.dev.json
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\bin\Debug\netcoreapp2.2\CRS.dll
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\bin\Debug\netcoreapp2.2\CRS.pdb
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.csprojAssemblyReference.cache
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.AssemblyInfoInputs.cache
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.AssemblyInfo.cs
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.dll
+C:\Users\Elijah\Documents\School\2019FA\EE433\W01\CRS\obj\Debug\netcoreapp2.2\CRS.pdb
