@@ -2,6 +2,9 @@ using System;
 
 namespace CRS
 {
+            /// <param name="maxStudents">The maximum crn of students allowed
+        /// at a given time; not tracked through time, ergo only represents
+        /// current or most up-to-date maximum.</param>
     public class Register {
         public int id {get;}
         static int idCounter = 0;

@@ -57,7 +57,7 @@
 
 <!-- COMMON -->
 [UABHome]: https://www.uab.edu/home/
-[UABLogo]: ../Resources/UABLogoTrans.png
+[UABLogo]: ./UABLogoTrans.png
 [nextWeek]: ../W02/Week_02_Status_Report.md
 
 <!-- DOCUMENTS -->
