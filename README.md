@@ -24,6 +24,7 @@ This project serves as a way to store and easily communicate EE433 material that
 
 [![GitHub](./Resources/GitHubLogo.ico)](https://github.com/Seraphendipity/EE433)
 [![LinkedIn](./Resources/LinkedInLogo.ico)](https://www.linkedin.com/in/elijahtherose)
+[![LinkedIn](./Resources/WixLogo.ico)](https://elijahtrose.wixsite.com/portfolio)
 
 </div>
 

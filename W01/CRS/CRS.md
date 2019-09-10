@@ -28,3 +28,5 @@ Potentially there will be "wipe inactive" functionality in future implementation
 
 ## Collections
 In an effort to minimize the duties and held information of each student, course, and register to the bare minimum.
+
+[Class Diagram of CRS](ClassDiagram.png)
